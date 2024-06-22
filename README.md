@@ -1,0 +1,1 @@
+Simple project to demonstrate how to use Standard Input in C#
